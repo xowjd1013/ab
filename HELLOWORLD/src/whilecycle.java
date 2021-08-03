@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class whilecycle {
 	public static void main(String[]args) {
 		Scanner sc = new Scanner (System.in);	
-		int count = 1;
+		int count = 0;
 		int a = sc.nextInt();
 		if(a<10) {
 			a*=10;
