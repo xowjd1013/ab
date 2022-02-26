@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-// bottom-up
+// Top-Down
 public class baekjoon1463_1 {
 	static int ans = Integer.MAX_VALUE;
 	public static void main(String[] args) throws IOException {
